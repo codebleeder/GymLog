@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <script src="scripts/jquery-3.1.1.min.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+            jQuery.support.cors = true;
+           
+        });
+    </script>
+   
+    <div class="container col-sm-2">
+        <form>
+            <div class="form-group row"><input type="text" placeholder="Email" id="email"/></div>
+            <div class="form-group row"><input type="password" placeholder="Password" id="password" /></div>
+            <div class="form-group row"><input type="password" placeholder="Retype Password" id="retype-password" /></div>
+            <div class="form-group row"><button type="button" class="btn btn-primary btn-block">Login</button></div>
+            <div class="form-group row"><button type="button" class="btn btn-primary btn-block">Sign-up</button></div>
+        </form>
+    </div>
+    
+</body>
+</html>
