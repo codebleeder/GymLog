@@ -95,7 +95,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\Main.css" />
-    <Content Include="Main.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -119,7 +118,7 @@
     <Content Include="scripts\jquery-3.1.1.min.js" />
     <Content Include="scripts\jquery-3.1.1.slim.js" />
     <Content Include="scripts\jquery-3.1.1.slim.min.js" />
-    <Content Include="scripts\Main.js" />
+    <Content Include="scripts\Index.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -1,30 +1,69 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title></title>
-	<meta charset="utf-8" />
+    <title>Main</title>
+    <meta charset="utf-8" />
+    <meta charset="utf-8" />
     <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="Content/Main.css" />
 </head>
 <body>
     <script src="scripts/jquery-3.1.1.min.js"></script>
-    
-    <script>
-        $(document).ready(function () {
-            jQuery.support.cors = true;
-           
-        });
-    </script>
-   
-    <div class="container col-sm-2">
-        <form>
-            <div class="form-group row"><input type="text" placeholder="Email" id="email"/></div>
-            <div class="form-group row"><input type="password" placeholder="Password" id="password" /></div>
-            <div class="form-group row"><input type="password" placeholder="Retype Password" id="retype-password" /></div>
-            <div class="form-group row"><button type="button" class="btn btn-primary btn-block">Login</button></div>
-            <div class="form-group row"><button type="button" class="btn btn-primary btn-block">Sign-up</button></div>
-        </form>
+    <script src="scripts/Index.js"></script>
+    <div class="pure-menu pure-menu-horizontal">
+        <a href="#" class="pure-menu-heading pure-menu-link">Gym Log</a>
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link">New exercise</a></li>
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link">New template</a></li>
+            
+        </ul>
     </div>
-    
+
+    <div class="hero">
+        <input type="date" id="selected-date" />
+        
+        <form class="pure-form pure-form-stacked">
+            <fieldset>
+                <legend>Add log</legend>
+                <div class="pure-g">
+                    <div class="pure-u pure-u-med-1-2">
+                        <select id="select-exercise">
+                            <option value="" disabled selected>Select exercise</option>
+                            <option value="value1">Value 1</option> 
+                            <option value="value2">Value 2</option>
+                            <option value="value3">Value 3</option>
+                        </select>
+                    </div>
+                    <div class="pure-u pure-u-med-1-6">
+                        <input type="number" placeholder="Weight" />
+                    </div>
+                    <div class="pure-u pure-u-med-1-6">
+                        <h4>xsdfsdf</h4>
+                    </div>
+                    <div class="pure-u pure-u-med-1-6">
+                        <input type="number" placeholder="Reps" />
+                    </div>
+                </div>
+                
+                 
+            </fieldset>
+        </form>    
+        <table class="pure-table" id="ex-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Make</th>
+                    <th>Model</th>
+                    <th>Year</th>
+                </tr>
+            </thead>
+
+            <tbody></tbody>
+        </table>
+        
+    </div>
+
+
 </body>
 </html>

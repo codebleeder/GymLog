@@ -31,3 +31,36 @@ c:\Users\Sharad\documents\visual studio 2015\Projects\GymLog\GymLogWeb\bin\Micro
 c:\Users\Sharad\documents\visual studio 2015\Projects\GymLog\GymLogWeb\obj\Debug\GymLogWeb.csprojResolveAssemblyReference.cache
 c:\Users\Sharad\documents\visual studio 2015\Projects\GymLog\GymLogWeb\obj\Debug\GymLogWeb.dll
 c:\Users\Sharad\documents\visual studio 2015\Projects\GymLog\GymLogWeb\obj\Debug\GymLogWeb.pdb
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\ApplicationInsights.config
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\csc.exe
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\vbc.exe
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\GymLogWeb.dll.config
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\GymLogWeb.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\GymLogWeb.pdb
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.Web.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.Web.xml
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\obj\Debug\GymLogWeb.csprojResolveAssemblyReference.cache
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\obj\Debug\GymLogWeb.dll
+C:\Users\sharads\Source\Repos\GymLog\GymLogWeb\obj\Debug\GymLogWeb.pdb
