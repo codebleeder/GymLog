@@ -1,2 +1,29 @@
 ﻿body {
 }
+
+/*#x-symbol {
+    //padding-bottom: 5px;
+    border:solid 1px;
+    
+   
+}*/
+/*#div-rep {
+    border: solid 1px;
+    
+}*/
+
+#input-rep {
+    margin-top: 12px;
+}
+
+#input-weight {
+    margin-top: 12px;
+}
+
+#select-exercise {
+    margin-top: 12px; 
+}
+
+.pure-g {
+    border: solid 1px; 
+}
